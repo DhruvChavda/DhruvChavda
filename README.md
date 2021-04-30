@@ -64,7 +64,7 @@ I'm DMC
 
 <!--Software to include shotcut, ejs-->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvchavda&show_icons=true&locale=en)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvchavda&show_icons=true&title_color=007396&icon_color=007396&text_color=e7e7e7&bg_color=050915&border_color=007396&border_radius=10px&count_private=true&locale=en)
 
 
 <!--
