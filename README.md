@@ -12,11 +12,11 @@ I'm DMC
 
 ## 🔧 Tools & Technologies
 
-### Programming Language(s)
+### Programming Languages
 
 ![C Badge](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&labelColor=black&logo=C&logoColor=A8B9CC) ![Cpp Badge](https://img.shields.io/badge/-c%2B%2B-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C) ![Javascript Badge](https://img.shields.io/badge/-Javascript-f7df1e?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E) ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
 
-### Frontend Technologie(s)
+### Frontend Technologies
 
 ![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26) ![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6) ![SASS Badge](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&labelColor=black&logo=SASS&logoColor=CC6699) ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=Bootstrap&logoColor=7952B3)  
 ![react Badge](https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB) ![material-ui Badge](https://img.shields.io/badge/-material--ui-0081CB?style=for-the-badge&labelColor=black&logo=material-ui&logoColor=0081CB)
@@ -24,7 +24,7 @@ I'm DMC
 
 
 
-### Backend Technologie(s)
+### Backend Technologies
 
 ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&labelColor=black&logo=Node.js&logoColor=339933) ![Nodemon Badge](https://img.shields.io/badge/-Nodemon-76D04B?style=for-the-badge&labelColor=black&logo=Nodemon&logoColor=76D04B) ![Express Badge](https://img.shields.io/badge/-Express-e7e7e7?style=for-the-badge&labelColor=black&logo=Express&logoColor=e7e7e7)
 
