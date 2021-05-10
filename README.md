@@ -14,53 +14,47 @@ I'm DMC
 
 ### Programming Language(s)
 
-![C](https://img.shields.io/badge/C-3b3b3b?style=flat-square&logo=c)
-![Cpp](https://img.shields.io/badge/C++-3b3b3b?style=flat-square&logo=c%2B%2B)
-![JS](https://img.shields.io/badge/JavaScript-3b3b3b?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3b3b3b?style=flat-square&logo=python)
+![C Badge](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&labelColor=black&logo=C&logoColor=A8B9CC) ![Cpp Badge](https://img.shields.io/badge/-c%2B%2B-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C) ![Javascript Badge](https://img.shields.io/badge/-Javascript-f7df1e?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E) ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
 
 ### Frontend Technologie(s)
 
-![HTML](https://img.shields.io/badge/HTML5-3b3b3b?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-3b3b3b?style=flat-square&logo=css3)
-![SASS](https://img.shields.io/badge/Sass-3b3b3b?style=flat-square&logo=sass)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-3b3b3b?style=flat-square&logo=bootstrap)
-![React](https://img.shields.io/badge/React-3b3b3b?style=flat-square&logo=react)
+![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26) ![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6) ![SASS Badge](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&labelColor=black&logo=SASS&logoColor=CC6699) ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=Bootstrap&logoColor=7952B3)
+![react Badge](https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB) ![material-ui Badge](https://img.shields.io/badge/-material--ui-0081CB?style=for-the-badge&labelColor=black&logo=material-ui&logoColor=0081CB)
+
+
+
 
 ### Backend Technologie(s)
 
-![Node.js](https://img.shields.io/badge/Node.js-3b3b3b?style=flat-square&logo=node.js)
-![express](https://img.shields.io/badge/Express.js-3b3b3b?style=flat-square&logo=express)
+![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&labelColor=black&logo=Node.js&logoColor=339933) ![Nodemon Badge](https://img.shields.io/badge/-Nodemon-76D04B?style=for-the-badge&labelColor=black&logo=Nodemon&logoColor=76D04B) ![Express Badge](https://img.shields.io/badge/-Express-e7e7e7?style=for-the-badge&labelColor=black&logo=Express&logoColor=e7e7e7)
+
 
 ### Database(s)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-3b3b3b?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostreSQL-3b3b3b?style=flat-square&logo=postgresql)
-![Mysql](https://img.shields.io/badge/MySQL-3b3b3b?style=flat-square&logo=mysql)
+![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=MongoDB&logoColor=47A248) ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&labelColor=e7e7e7&logo=PostgreSQL&logoColor=336791) ![mysql Badge](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&labelColor=e7e7e7&logo=mysql&logoColor=4479A1)
+
 
 ### BaaS
 
-![Heroku](https://img.shields.io/badge/Heroku-3b3b3b?style=flat-square&logo=heroku)
+![heroku Badge](https://img.shields.io/badge/-heroku-430098?style=for-the-badge&labelColor=e7e7e7&logo=heroku&logoColor=430098)
 
 ### Package Manager(s)
 
-![npm](https://img.shields.io/badge/npm-3b3b3b?style=flat-square&logo=npm)
+![npm Badge](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&labelColor=black&logo=npm&logoColor=CB3837)
 
 ### Testing
 
-![Postman](https://img.shields.io/badge/Postman-3b3b3b?style=flat-square&logo=postman)
+![postman Badge](https://img.shields.io/badge/-postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=FF6C37)
 
 ### Version Control System(s)
 
-![Git](https://img.shields.io/badge/Git-3b3b3b?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-3b3b3b?style=flat-square&logo=github)
+![git Badge](https://img.shields.io/badge/-git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
+![github Badge](https://img.shields.io/badge/-github-181717?style=for-the-badge&labelColor=e7e7e7&logo=github&logoColor=181717)
 
 ### Other Software(s)
 
-![Ai](https://img.shields.io/badge/Adobe%20Illustrator-3b3b3b?style=flat-square&logo=adobe-illustrator)
-![Xd](https://img.shields.io/badge/Adobe%20XD-3b3b3b?style=flat-square&logo=adobe-xd)
-![Inkscape](https://img.shields.io/badge/Inkscape-3b3b3b?style=flat-square&logo=inkscape)
-![Blender](https://img.shields.io/badge/Blender-3b3b3b?style=flat-square&logo=blender)
+![adobe-illustrator Badge](https://img.shields.io/badge/-AI-FF9A00?style=for-the-badge&labelColor=black&logo=adobe-illustrator&logoColor=FF9A00) ![adobe-xd Badge](https://img.shields.io/badge/-xd-FF61F6?style=for-the-badge&labelColor=black&logo=adobe-xd&logoColor=FF61F6) ![inkscape Badge](https://img.shields.io/badge/-inkscape-000000?style=for-the-badge&labelColor=e7e7e7&logo=inkscape&logoColor=000000) ![blender Badge](https://img.shields.io/badge/-blender-F5792A?style=for-the-badge&labelColor=black&logo=blender&logoColor=F5792A)
+
 
 <!--Software to include shotcut, ejs-->
 
