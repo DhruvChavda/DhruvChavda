@@ -18,21 +18,16 @@ I'm DMC
 
 ### Frontend Technologies
 
-![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26) ![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6) ![SASS Badge](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&labelColor=black&logo=SASS&logoColor=CC6699) ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=Bootstrap&logoColor=7952B3)  
+![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)![ejs Badge](https://img.shields.io/badge/-ejs-b4ca65?style=for-the-badge) ![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6) ![SASS Badge](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&labelColor=black&logo=SASS&logoColor=CC6699) ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=Bootstrap&logoColor=7952B3)  
 ![react Badge](https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB) ![material-ui Badge](https://img.shields.io/badge/-material--ui-0081CB?style=for-the-badge&labelColor=black&logo=material-ui&logoColor=0081CB)
-
-
-
 
 ### Backend Technologies
 
 ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&labelColor=black&logo=Node.js&logoColor=339933) ![Nodemon Badge](https://img.shields.io/badge/-Nodemon-76D04B?style=for-the-badge&labelColor=black&logo=Nodemon&logoColor=76D04B) ![Express Badge](https://img.shields.io/badge/-Express-e7e7e7?style=for-the-badge&labelColor=black&logo=Express&logoColor=e7e7e7)
 
-
 ### Database(s)
 
-![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=MongoDB&logoColor=47A248) ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&labelColor=e7e7e7&logo=PostgreSQL&logoColor=336791) ![mysql Badge](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&labelColor=e7e7e7&logo=mysql&logoColor=4479A1)
-
+![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=MongoDB&logoColor=47A248)![Mongoose Badge](https://img.shields.io/badge/-Mongoose-800000?style=for-the-badge) ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&labelColor=e7e7e7&logo=PostgreSQL&logoColor=336791) ![mysql Badge](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&labelColor=e7e7e7&logo=mysql&logoColor=4479A1)
 
 ### BaaS
 
@@ -40,7 +35,7 @@ I'm DMC
 
 ### Package Manager(s)
 
-![npm Badge](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&labelColor=black&logo=npm&logoColor=CB3837)
+![npm Badge](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&labelColor=black&logo=npm&logoColor=CB3837) ![yarn Badge](https://img.shields.io/badge/-yarn-2C8EBB?style=for-the-badge&labelColor=black&logo=yarn&logoColor=2C8EBB)
 
 ### Testing
 
@@ -48,8 +43,7 @@ I'm DMC
 
 ### Version Control System(s)
 
-![git Badge](https://img.shields.io/badge/-git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
-![github Badge](https://img.shields.io/badge/-github-181717?style=for-the-badge&labelColor=e7e7e7&logo=github&logoColor=181717)
+![git Badge](https://img.shields.io/badge/-git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032) ![github Badge](https://img.shields.io/badge/-github-181717?style=for-the-badge&labelColor=e7e7e7&logo=github&logoColor=181717)
 
 ### Other Software(s)
 
