@@ -31,7 +31,7 @@ I'm DMC
 
 ### BaaS
 
-![heroku Badge](https://img.shields.io/badge/-heroku-430098?style=for-the-badge&labelColor=e7e7e7&logo=heroku&logoColor=430098)
+![heroku Badge](https://img.shields.io/badge/-heroku-430098?style=for-the-badge&labelColor=e7e7e7&logo=heroku&logoColor=430098) ![firebase Badge](https://img.shields.io/badge/-firebase-FFCA28?style=for-the-badge&labelColor=000000&logo=firebase&logoColor=FFCA28)
 
 ### Package Manager(s)
 
@@ -49,11 +49,9 @@ I'm DMC
 
 ![adobe-illustrator Badge](https://img.shields.io/badge/-AI-FF9A00?style=for-the-badge&labelColor=black&logo=adobe-illustrator&logoColor=FF9A00) ![adobe-xd Badge](https://img.shields.io/badge/-xd-FF61F6?style=for-the-badge&labelColor=black&logo=adobe-xd&logoColor=FF61F6) ![inkscape Badge](https://img.shields.io/badge/-inkscape-000000?style=for-the-badge&labelColor=e7e7e7&logo=inkscape&logoColor=000000) ![blender Badge](https://img.shields.io/badge/-blender-F5792A?style=for-the-badge&labelColor=black&logo=blender&logoColor=F5792A)
 
-
 <!--Software to include shotcut, ejs-->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvchavda&show_icons=true&title_color=007396&icon_color=007396&text_color=e7e7e7&bg_color=050915&border_color=007396&border_radius=10px&count_private=true&locale=en)
-
 
 <!--
 **DhruvChavda/DhruvChavda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
