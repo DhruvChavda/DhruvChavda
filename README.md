@@ -8,7 +8,7 @@ I'm DMC
 [![Behance](https://img.shields.io/badge/dhruvchavda2712-3b3b3b?style=social&logo=behance)](https://www.behance.net/dhruvchavda2712)  
 [![Instagram](https://img.shields.io/badge/d.m.c_2712-3b3b3b?style=social&logo=instagram)](https://www.instagram.com/d.m.c_2712/)  
 [![Twitter](https://img.shields.io/badge/dmc2712-3b3b3b?style=social&logo=twitter)](https://twitter.com/DhruvChavda2712)  
-[![LinkedIn](https://img.shields.io/badge/DMC2712-3b3b3b?style=social&logo=linkedin)](https://www.linkedin.com/in/dhruv-chavda-5a53041b7/)
+[![LinkedIn](https://img.shields.io/badge/Dhruv%20Chavda-3b3b3b?style=social&logo=linkedin)](https://www.linkedin.com/in/dhruv-chavda-5a53041b7/)
 
 ## 🔧 Tools & Technologies
 
