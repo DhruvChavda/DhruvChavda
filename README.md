@@ -19,7 +19,7 @@ I'm DMC
 ### Frontend Technologies
 
 ![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)![ejs Badge](https://img.shields.io/badge/-ejs-b4ca65?style=for-the-badge) ![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6) ![SASS Badge](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&labelColor=black&logo=SASS&logoColor=CC6699) ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=Bootstrap&logoColor=7952B3)  
-![react Badge](https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB) ![redux Badge](https://img.shields.io/badge/-redux-764ABC?style=for-the-badge&labelColor=e7e7e7&logo=redux&logoColor=764ABC) ![material-ui Badge](https://img.shields.io/badge/-material--ui-0081CB?style=for-the-badge&labelColor=black&logo=material-ui&logoColor=0081CB)
+![react Badge](https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB) ![redux Badge](https://img.shields.io/badge/-redux-764ABC?style=for-the-badge&labelColor=e7e7e7&logo=redux&logoColor=764ABC) ![material-ui Badge](https://img.shields.io/badge/-styled--components-DB7093?style=for-the-badge&labelColor=e7e7e7&logo=styled-components&logoColor=DB7093) ![material-ui Badge](https://img.shields.io/badge/-material--ui-0081CB?style=for-the-badge&labelColor=black&logo=material-ui&logoColor=0081CB)
 
 ### Backend Technologies
 
